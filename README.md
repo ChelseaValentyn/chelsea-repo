@@ -2,6 +2,7 @@
 ## Dark colours
 1. Black
 2. Brown
+3. Purple
 
 ## Light colours
 1. White
